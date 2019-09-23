@@ -1,3 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+br {
+  line-height: 0;
+}
+
 #videoPlayer {
   transform: rotateY(180deg);
   -webkit-transform:rotateY(180deg); /* Safari and Chrome */
